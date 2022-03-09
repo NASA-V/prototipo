@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Form_6
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
 
     End Sub
@@ -23,7 +23,7 @@
 
     End Sub
 
-    Private Sub MenuStrip1_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs) 
+    Private Sub MenuStrip1_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs)
 
     End Sub
 
@@ -31,7 +31,7 @@
 
     End Sub
 
-    Private Sub LineaBlancaToolStripMenuItem_Click(sender As Object, e As EventArgs) 
+    Private Sub LineaBlancaToolStripMenuItem_Click(sender As Object, e As EventArgs)
 
     End Sub
 
