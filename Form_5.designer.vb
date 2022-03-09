@@ -104,7 +104,7 @@ Partial Class Form_5
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.ModificarUbicacion.My.Resources.Resources.cambiar_ubicacion_google_falsa
+        'Me.PictureBox1.Image = Global.ModificarUbicacion.My.Resources.Resources.cambiar_ubicacion_google_falsa
         Me.PictureBox1.Location = New System.Drawing.Point(273, 12)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(159, 107)

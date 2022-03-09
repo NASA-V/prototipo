@@ -22,7 +22,22 @@ Ingresar_Al_Sistema
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Ingresar_Al_Sistema.My.Resources.Resources.cambiar_ubicacion_google_falsa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ingresar_Al_Sistema.My.Resources.Resources.descarga__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Ingresar_Al_Sistema.My.Resources.Resources.img_239979">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ingresar_Al_Sistema.My.Resources.Resources.Perfil">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

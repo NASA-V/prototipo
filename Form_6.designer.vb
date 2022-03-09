@@ -122,7 +122,7 @@ Partial Class Form_6
         '
         'Button7
         '
-        Me.Button7.Image = Global.proyecto.My.Resources.Resources.Libro_de_Alexandre
+        'Me.Button7.Image = Global.proyecto.My.Resources.Resources.Libro_de_Alexandre
         Me.Button7.Location = New System.Drawing.Point(524, 442)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(90, 101)
@@ -131,7 +131,7 @@ Partial Class Form_6
         '
         'Button6
         '
-        Me.Button6.Image = Global.proyecto.My.Resources.Resources.image_content_33042487_20190317185004
+        'Me.Button6.Image = Global.proyecto.My.Resources.Resources.image_content_33042487_20190317185004
         Me.Button6.Location = New System.Drawing.Point(524, 284)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(90, 99)
@@ -140,7 +140,7 @@ Partial Class Form_6
         '
         'Button5
         '
-        Me.Button5.Image = Global.proyecto.My.Resources.Resources._2153062
+        'Me.Button5.Image = Global.proyecto.My.Resources.Resources._2153062
         Me.Button5.Location = New System.Drawing.Point(524, 131)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(90, 104)
@@ -149,7 +149,7 @@ Partial Class Form_6
         '
         'Button4
         '
-        Me.Button4.Image = Global.proyecto.My.Resources.Resources.Botella_de_PET_reciclada_para_envasar_agua_G__1_
+        'Me.Button4.Image = Global.proyecto.My.Resources.Resources.Botella_de_PET_reciclada_para_envasar_agua_G__1_
         Me.Button4.Location = New System.Drawing.Point(204, 442)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(89, 101)
@@ -158,7 +158,7 @@ Partial Class Form_6
         '
         'Button3
         '
-        Me.Button3.Image = Global.proyecto.My.Resources.Resources._556_product_5f8885cd62e04_13346_pw_01
+        'Me.Button3.Image = Global.proyecto.My.Resources.Resources._556_product_5f8885cd62e04_13346_pw_01
         Me.Button3.Location = New System.Drawing.Point(205, 284)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(89, 99)
@@ -167,7 +167,7 @@ Partial Class Form_6
         '
         'Button2
         '
-        Me.Button2.Image = Global.proyecto.My.Resources.Resources._33503__Leche_Pinito2
+        'Me.Button2.Image = Global.proyecto.My.Resources.Resources._33503__Leche_Pinito2
         Me.Button2.Location = New System.Drawing.Point(205, 131)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(90, 104)

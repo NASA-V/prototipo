@@ -140,7 +140,7 @@ Partial Class Form_4
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.MetodosDePago.My.Resources.Resources.descarga__3_
+        'Me.PictureBox1.Image = Global.MetodosDePago.My.Resources.Resources.descarga__3_
         Me.PictureBox1.Location = New System.Drawing.Point(54, 80)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(236, 49)
